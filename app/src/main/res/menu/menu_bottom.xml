@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--adding item to show in bottom navigation bar -->
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_outline_home"/>
+
+    <item android:id="@+id/nav_stats"
+        android:title="Stats"
+       android:icon="@drawable/ic_outline_chart" />
+
+</menu>
